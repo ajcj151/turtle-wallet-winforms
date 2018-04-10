@@ -166,6 +166,12 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SelectionPrompt.resx">
+      <DependentUpon>SelectionPrompt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Wallet.resx">
       <DependentUpon>Wallet.cs</DependentUpon>
     </EmbeddedResource>

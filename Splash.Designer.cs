@@ -67,7 +67,7 @@
             this.StatusLabel.Location = new System.Drawing.Point(16, 0);
             this.StatusLabel.Margin = new System.Windows.Forms.Padding(0, 0, 2, 0);
             this.StatusLabel.Name = "StatusLabel";
-            this.StatusLabel.Size = new System.Drawing.Size(384, 30);
+            this.StatusLabel.Size = new System.Drawing.Size(297, 30);
             this.StatusLabel.TabIndex = 3;
             this.StatusLabel.Text = "Wallet opening ...";
             this.StatusLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -77,13 +77,13 @@
             this.versionLabel.Dock = System.Windows.Forms.DockStyle.Right;
             this.versionLabel.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.versionLabel.ForeColor = System.Drawing.Color.White;
-            this.versionLabel.Location = new System.Drawing.Point(400, 0);
+            this.versionLabel.Location = new System.Drawing.Point(313, 0);
             this.versionLabel.Margin = new System.Windows.Forms.Padding(0, 0, 2, 0);
             this.versionLabel.Name = "versionLabel";
-            this.versionLabel.Size = new System.Drawing.Size(70, 30);
+            this.versionLabel.Size = new System.Drawing.Size(157, 30);
             this.versionLabel.TabIndex = 2;
             this.versionLabel.Text = "v 1.0.0.0";
-            this.versionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.versionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // panel2
             // 
